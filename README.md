@@ -1,4 +1,4 @@
-# Hey 👋, I'm Srikanth
+# Hey 👋, Myself Srikanth Nakka
 Passionate Softwrare Engineer, benchmarking frameworks and building solutions.
 
 ![Profile views](https://komarev.com/ghpvc/?username=sreegithub89&color=blue)
