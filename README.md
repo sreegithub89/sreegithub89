@@ -8,6 +8,6 @@ Software Engineer, benchmarking frameworks and building solutions.
 🌱 Currently learning: Tech
 - Looking to collaborate on: Java projects, security testing solutions, open‑source tools
 - Looking for help with ...
-📫 Reach me: sree.cs10@gmail.com
+📫 Reach me @sree.cs10@gmail.com
 - Pronouns: He/Him
 💬 Ask me about ...
