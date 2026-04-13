@@ -5,7 +5,7 @@ Software Engineer, benchmarking frameworks and building solutions.
 
 🔭 Working on: Java+SQL+CI+Web
 
-🌱 Currently learning: Tech
+🌱 Currently learning: Tech+AI
 - Looking to collaborate on: Java projects, security testing solutions, open‑source tools
 - Looking for help with ...
 📫 Reach me @sree.cs10@gmail.com
