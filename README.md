@@ -3,10 +3,10 @@ Software Engineer, benchmarking frameworks and building solutions.
 
 ![Profile views](https://komarev.com/ghpvc/?username=sreegithub89&color=blue)
 
-🔭 Working on: Java+SQL+CI+Web
+🔭 Working on: Java+SQL+CI+Web+AI
 
 🌱 Currently learning: Tech+AI
-- Looking to collaborate on: Java projects, security testing solutions, open‑source tools
+- Looking to collaborate on: Java/Python projects, security testing solutions, open‑source tools
 - Looking for help with ...
 📫 Reach me @sree.cs10@gmail.com
 - Pronouns: He/Him
