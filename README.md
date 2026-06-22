@@ -13,4 +13,15 @@ Software Engineer, benchmarking frameworks and building solutions.
 - Pronouns: He/Him
 💬 Ask me about ...
 
-https://camo.githubusercontent.com/88b8bdce872268b3d0d7ec69e16716a0adf8fa0165eb6069bcb49e23bd5550ef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b
+## Technologies
+
+![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
+![TypeScript](https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.png)
+![HTML5](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg)
+![CSS3](https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg)
+![Git](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)
+![Linux](https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg)
+![Docker](https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png)
+![Node.js](https://nodejs.org/static/images/logo.svg)
+![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
