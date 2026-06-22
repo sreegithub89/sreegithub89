@@ -1,4 +1,4 @@
-# my tech-space
+# tech-space:Srikanth Nakka
 Software Engineer, benchmarking frameworks and building solutions.
 
 ![Profile views](https://komarev.com/ghpvc/?username=sreegithub89&color=blue)
