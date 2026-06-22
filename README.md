@@ -13,15 +13,6 @@ Software Engineer, benchmarking frameworks and building solutions.
 - Pronouns: He/Him
 💬 Ask me about ...
 
-## Technologies
-
-![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
-![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
-![TypeScript](https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.png)
-![HTML5](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg)
-![CSS3](https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg)
-![Git](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)
-![Linux](https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg)
-![Docker](https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png)
-![Node.js](https://nodejs.org/static/images/logo.svg)
-![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
