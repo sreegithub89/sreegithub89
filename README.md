@@ -7,8 +7,8 @@ Software Engineer, benchmarking frameworks and building solutions.
 
 🌱 Currently learning: Tech+AI
 - Looking to collaborate on: Java/Python projects, security testing solutions, open‑source tools
-- Looking for help with ...
-📫 Reach me @sree.cs10@gmail.com
+- Looking to with me ...
+📫 please reach me @sree.cs10@gmail.com
 - My profile @https://sreegithub89.github.io/portfolio-projects/
 - Pronouns: He/Him
 💬 Ask me about ...
