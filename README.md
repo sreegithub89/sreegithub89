@@ -11,7 +11,7 @@ Software Engineer, benchmarking frameworks and building solutions.
 📫 please reach me @sree.cs10@gmail.com
 - My profile @https://sreegithub89.github.io/portfolio-projects/
 - Pronouns: He/Him
-💬 Ask me about: Companies, Jobs, Employment, ...etc
+💬 Ask me about: Companies, Jobs, Employment, Roles, ...etc
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
