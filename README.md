@@ -4,7 +4,6 @@ Software Engineer, benchmarking frameworks and building solutions.
 ![Profile views](https://komarev.com/ghpvc/?username=sreegithub89&color=blue)
 Availability: Immediate Joiner
 🔭 Working on: Java+SQL+CI+Web+AI
-
 🌱 Currently learning: Tech+AI
 - Looking to collaborate on: Java/Python/TypeScript projects, security testing solutions, open‑source tools
 - Looking to work with me ...
