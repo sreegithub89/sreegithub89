@@ -1,5 +1,5 @@
 # Srikanth Nakka
-Software Engineer, benchmarking frameworks and building solutions.
+Lead Software Engineer, benchmarking frameworks and building solutions.
 
 ![Profile views](https://komarev.com/ghpvc/?username=sreegithub89&color=blue)
 Availability: Immediate Joiner
@@ -10,7 +10,7 @@ Availability: Immediate Joiner
 📫 please reach me @sree.cs10@gmail.com
 - My profile @https://sreegithub89.github.io/portfolio-projects/
 - Pronouns: He/Him
-💬 Ask me about: Companies, Jobs, Employment, Roles, Interviews,...etc
+💬 Ask me about: Companies, Jobs, Employment, Roles, Interviews, Salaries,...etc
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
