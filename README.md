@@ -4,6 +4,8 @@ Payment link:
 [https://razorpay.me/@UCCE8fKGUSQGlGl61p8z5seA](https://razorpay.me/@sn0311)
 UPI: srikanth.nakka@ybl
 
+<form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_TOFE4149xE6ErH" async> </script> </form>
+
 Lead Software Engineer, benchmarking frameworks and building solutions.
 
 ![Profile views](https://komarev.com/ghpvc/?username=sreegithub89&color=blue)
