@@ -8,6 +8,8 @@ UPI: srikanth.nakka@ybl
 <form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_TOFE4149xE6ErH" async> </script> </form>
 
 <b>Lead Software Engineer, benchmarking frameworks and building solutions.</b>
+Looking for opportunities:
+SDE,SDET at all Levels
 
 ![Profile views](https://komarev.com/ghpvc/?username=sreegithub89&color=blue)
 Availability: Immediate Joiner
