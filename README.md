@@ -1,5 +1,5 @@
 # Srikanth Nakka
-Please support my work (at least $10/as per your interest).
+Please support my work (at least $1000/as per your interest).
 Payment link:
 [https://razorpay.me/@UCCE8fKGUSQGlGl61p8z5seA](https://razorpay.me/@sn0311)
 UPI: srikanth.nakka@ybl
