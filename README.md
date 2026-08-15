@@ -1,7 +1,8 @@
 # Srikanth Nakka
 Please support my work (at least $1000/as per your interest).
 Payment link:
-[https://razorpay.me/@UCCE8fKGUSQGlGl61p8z5seA](https://razorpay.me/@sn0311)
+[![Support Me](https://img.shields.io/badge/Support%20Me-UPI%2FRazorpay-blue)](https://razorpay.me/@sn0311)
+[https://razorpay.me/@UCCE8fKGUSQGlGl61p8z5seA]
 UPI: srikanth.nakka@ybl
 
 <form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_TOFE4149xE6ErH" async> </script> </form>
