@@ -19,9 +19,25 @@ Availability: Immediate Joiner
 - Pronouns: He/Him
 💬 Ask me about: Companies, Jobs, Employment, Roles, Interviews, Salaries, Tech stack, ...etc
 
+Languages:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+Frontend:
+HTML5 CSS3
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+Backend:
+https://img.shields.io/badge/nodejs-3178C6
+https://img.shields.io/badge/express-3178C6
+
+Databases:
+https://img.shields.io/badge/postgresql-3178C6
+https://img.shields.io/badge/sqlite-3178C6
+https://img.shields.io/badge/mysql-3178C6
+https://img.shields.io/badge/oracle-3178C6
+
+Frameworks (Automation):
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff)](#)
 [![Playwright](https://custom-icon-badges.demolab.com/badge/Playwright-2EAD33?logo=playwright&logoColor=fff)](#)
