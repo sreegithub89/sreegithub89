@@ -1,5 +1,5 @@
 # Srikanth Nakka
-Please support my work (at least $1000/as per your interest).
+Please support my work (at least $1000/as per your interest).  
 Payment link:
 [![Support Me](https://img.shields.io/badge/Support%20Me-UPI%2FRazorpay-blue)](https://razorpay.me/@sn0311)
 [https://razorpay.me/@UCCE8fKGUSQGlGl61p8z5seA]
