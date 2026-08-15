@@ -29,15 +29,17 @@ HTML5 CSS3
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 Backend:
-https://img.shields.io/badge/nodejs-3178C6
-https://img.shields.io/badge/express-3178C6
+![NodeJS](https://img.shields.io/badge/nodejs-3178C6)
+![Express](https://img.shields.io/badge/express-3178C6)
 
 Databases:
-https://img.shields.io/badge/postgresql-3178C6
-https://img.shields.io/badge/sqlite-3178C6
-https://img.shields.io/badge/mysql-3178C6
-https://img.shields.io/badge/oracle-3178C6
+![Postgresql](https://img.shields.io/badge/postgresql-3178C6)
+![Sqlite](https://img.shields.io/badge/sqlite-3178C6)
+![Mysql](https://img.shields.io/badge/mysql-3178C6)
+![Oracle](https://img.shields.io/badge/oracle-3178C6)
 
 Frameworks (Automation):
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff)](#)
 [![Playwright](https://custom-icon-badges.demolab.com/badge/Playwright-2EAD33?logo=playwright&logoColor=fff)](#)
+
+Tools & AI:
