@@ -8,10 +8,10 @@ UPI: srikanth.nakka@ybl
 <form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_TOFE4149xE6ErH" async> </script> </form>
 
 <b>Lead Software Engineer, benchmarking frameworks and building solutions.</b>  
-<b>Looking for opportunities:AI,ML,SDE,SDET roles at all Levels</b>  
+<b>Looking for opportunities:FDE,AI,ML,SDE,SDET roles at all Levels</b>  
+Availability: Immediate Joiner
 
 ![Profile views](https://komarev.com/ghpvc/?username=sreegithub89&color=blue)
-Availability: Immediate Joiner
 🔭 Working on: Java+SQL+CI+Web+AI
 🌱 Currently learning: Tech+AI
 - Looking to collaborate on: Java/Python/TypeScript projects, security testing solutions, open‑source tools
